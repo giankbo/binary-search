@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <!-- <img src="./images/binary-search.gif" alt="Binary Search" width="300" height="150"/> -->
+  <!-- <img src="./images/binary-and-linear-search.png" alt="Binary and Linear Search" width="300" height="150"/> -->
 
 &#xa0;
 
