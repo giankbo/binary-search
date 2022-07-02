@@ -1,6 +1,5 @@
 <div align="center" id="top"> 
-  <!-- <img src="./images/binary-and-linear-search.png" alt="Binary and Linear Search" width="300" height="150"/> -->
-
+  <img src="./images/binary-and-linear-search.png" alt="Binary and Linear Search" width="300" height="200"/>
 &#xa0;
 
 <a href="https://giankbo.github.io/binary-search/" target="blank">Demo</a>
@@ -28,8 +27,6 @@
    ·
    <a href="#checkered_flag-how-to-run">How to run</a>
    ·
-   <a href="#factory-roadmap">Roadmap</a>
-   ·
    <a href="#handshake-credits">Credits</a>
    ·
    <a href="#memo-license">License</a>
@@ -56,10 +53,6 @@ $ git clone https://github.com/giankbo/binary-search
 # Access
 $ cd binary-search
 ```
-
-## :factory: Roadmap
-
-Add a visualization of the process in HTML.
 
 ## :handshake: Credits
 
