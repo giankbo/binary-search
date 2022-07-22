@@ -1,0 +1,34 @@
+body {
+    margin-top: 50px;
+    background-color:#0E0823; /* #1C0F41 */
+    color: #FFFDFF;
+    width: 375px;
+}
+
+h2 {
+    font-weight: bold;
+    color: #D4A9F9;
+}
+
+h4 {
+    margin-top: 2.5rem;
+    color: #f6d2f3;
+}
+
+p {
+    color: #7C7393; 
+}
+
+.card {
+    margin-bottom: 1rem;
+    background-color:#1C0F34;
+    border-radius: 1.75rem;
+    width: 18rem;
+}
+
+.card-title {
+    margin: 1rem;
+    padding: 0.5rem;
+    background-color:#24193D;
+    border-radius: 2rem;
+}

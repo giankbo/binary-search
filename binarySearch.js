@@ -100,7 +100,9 @@ const searchForAlphabeticalIndex = ([stringToFindIndexForFirstLetter], alphabetA
 // Don't change this code aside from the numeric parameter passed in which indicates the number to search for, may see how searching different numbers results in different iterations for linear and binary search once your implementation is complete
 // note: searchForAlphabeticalIndex is defaulted to generate an array of length 100 which ranges from 0-99, inputting a number outside that range will not be found and should therefore show -1 in the results for both searches.
 window.onload = () => {
-    searchForAlphabeticalIndex("Peter Parker");
+    let avengers = ['Iron Man', 'Captain America', 'Thor', 'Hulk', 'Black Widow', 'Hawkeye'];
+    let randomAvenger = avengers[Math.floor(Math.random() * avengers.length)];
+    searchForAlphabeticalIndex(randomAvenger);
 };
 
 //don't change this line
