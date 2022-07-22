@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./images/binary-and-linear-search.png" alt="Binary and Linear Search" width="300" height="200"/>
+  <img src="./images/binary-and-linear-search.png" alt="Binary and Linear Search" width="200" height="460"/>
 &#xa0;
 
 <a href="https://giankbo.github.io/binary-search/" target="blank">Demo</a>
