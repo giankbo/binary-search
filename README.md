@@ -18,8 +18,8 @@
   <img alt="License" src="https://img.shields.io/github/license/giankbo/binary-search?color=brightgreen">
 </p>
 
-<p align="center" markdown="1">
-  In this MIT xPRO JavaScript project, we'll complete a binary search partially defined in the recursiveBinarySearch function in order to compare the iterations between "Binary Search vs. Linear Search" on an array containing the letters of the alphabet. 
+<p align="center" markdown="1"> 
+  The project first performs a random search of an array of names. It then locates the first letter of the name and performs a linear and binary search for that letter on an array containing the letters of the alphabet. Finally, it shows the number of iterations for each search.
 </p>
 
 <p align="center">
